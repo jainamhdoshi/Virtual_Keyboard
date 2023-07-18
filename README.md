@@ -1,7 +1,7 @@
 # Virtual_Keyboard
  "Virtual Hand Gesture Keyboard" is a project that utilizes hand recognition technique to create a virtual keyboard. By detecting and interpreting hand gestures, the system allows users to type characters, symbols, and perform actions without physical interaction. This innovative solution provides an intuitive and contactless alternative to traditional keyboards, enhancing accessibility and convenience in a variety of applications.
 
-![Alt text](hand_recognition.png)
+![hand recogniton](hand_recognition.png)
 
 ## Dependencies
 
